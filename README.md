@@ -12,3 +12,4 @@ Epochs used : 1 (48 recommended for better results and it may vary based on GPU/
 
 Know more about Keras here: https://www.tensorflow.org/guide/keras.
 
+More about CNN Layers : 
